@@ -13,7 +13,7 @@
       ],
       "name": "header-component",
       "nodeName": "header-component",
-      "ownerId": "6b0650e25f49622b2e001642",
+      "ownerId": "6b0650805f49622b2e0015f3",
       "ownerType": "app",
       "resourceIdentity": "components/header-components/header-component",
       "type": "custom-component"
@@ -43,7 +43,8 @@
             }
           },
           "name": "nav-component",
-          "ownerId": "6b0650e25f49622b2e001642",
+          "nodeName": "nav-component",
+          "ownerId": "6b0650805f49622b2e0015f3",
           "ownerType": "app",
           "resourceIdentity": "components/nav-components/nav-component",
           "type": "custom-component"
@@ -198,7 +199,7 @@
           },
           "name": "main-component",
           "nodeName": "main-component",
-          "ownerId": "6b0650e25f49622b2e001642",
+          "ownerId": "6b0650805f49622b2e0015f3",
           "ownerType": "app",
           "resourceIdentity": "components/main-components/main-component",
           "type": "custom-component"
@@ -324,7 +325,8 @@
             }
           },
           "name": "entity-360-degree-view-component",
-          "ownerId": "6b0650e25f49622b2e001642",
+          "nodeName": "entity-360-degree-view-component",
+          "ownerId": "6b0650805f49622b2e0015f3",
           "ownerType": "app",
           "resourceIdentity": "components/entity-360-degree-view-components/entity-360-degree-view-component",
           "type": "custom-component"
@@ -480,7 +482,7 @@
               "layout": {},
               "name": "info-panel-component",
               "nodeName": "info-panel-component",
-              "ownerId": "6b0650e25f49622b2e001642",
+              "ownerId": "6b0650805f49622b2e0015f3",
               "ownerType": "app",
               "resourceIdentity": "components/info-panel-components/info-panel-component",
               "type": "custom-component"
@@ -514,7 +516,8 @@
               "hasFormValidationManager": true,
               "layout": {},
               "name": "contact-form-component",
-              "ownerId": "6b0650e25f49622b2e001642",
+              "nodeName": "contact-form-component",
+              "ownerId": "6b0650805f49622b2e0015f3",
               "ownerType": "app",
               "resourceIdentity": "components/form-components/entity-forms/contact-form-component",
               "type": "custom-component"
@@ -540,6 +543,21 @@
         }
       },
       "name": "div"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
     }
   ],
   "name": "contact-management",
